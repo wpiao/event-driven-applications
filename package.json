@@ -4,6 +4,7 @@
   "description": "This app distributes the responsibility for logging to separate modules, using only events to trigger logging based on activity.",
   "main": "index.js",
   "scripts": {
+    "start": "node vendor.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
